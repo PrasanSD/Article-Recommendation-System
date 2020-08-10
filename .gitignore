@@ -1,0 +1,4 @@
+.vscode
+env
+GoogleNews-vectors-negative300.bin
+News_Category_Dataset_v2.json
